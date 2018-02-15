@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180215174238) do
+ActiveRecord::Schema.define(version: 20180215175135) do
 
   create_table "airports", force: :cascade do |t|
     t.string "code"
@@ -26,6 +26,16 @@ ActiveRecord::Schema.define(version: 20180215174238) do
     t.decimal "gdp"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "country_crops", force: :cascade do |t|
+    t.integer "country_id"
+    t.integer "crop_id"
+    t.decimal "yield"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["country_id"], name: "index_country_crops_on_country_id"
+    t.index ["crop_id"], name: "index_country_crops_on_crop_id"
   end
 
   create_table "crops", force: :cascade do |t|
