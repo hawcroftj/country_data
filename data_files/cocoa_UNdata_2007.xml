@@ -1,0 +1,2198 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Africa +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">5679724.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Africa +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4963.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Africa +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">2818890.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">American Samoa</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">15.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">American Samoa</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">666.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">American Samoa</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Americas +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1490461.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Americas +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3362.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Americas +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">501098.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2200.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">909.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">200.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Asia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">999244.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Asia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7879.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Asia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">787363.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">35.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7142.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">25.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">100.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">5468.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">8593.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">4699.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">628928.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3206.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">201651.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">450000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3983.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">179239.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Caribbean +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">184977.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Caribbean +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2771.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Caribbean +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">51264.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Central African Republic</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Central African Republic</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">500.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Central African Republic</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">50.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Central America +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">82592.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Central America +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5408.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Central America +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">44668.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">113921.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5473.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">62358.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">82.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3292.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">27.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">3300.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3030.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo, Democratic Republic of</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">18500.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo, Democratic Republic of</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3021.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo, Democratic Republic of</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">5590.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">4543.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1056.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">480.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2372542.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5833.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1384000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2758.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1379.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominica</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2200.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominica</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1022.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominica</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">225.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">153219.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2751.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">42154.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Eastern Africa +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">42382.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Eastern Africa +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4630.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Eastern Africa +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">19627.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">356658.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2408.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">85891.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">480.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">10000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">480.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Equatorial Guinea</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">30000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Equatorial Guinea</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Equatorial Guinea</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">3000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">250.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">560.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">14.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1300.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">769.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">100.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1450000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4241.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">615000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Grenada</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">370.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Grenada</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">6108.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Grenada</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">226.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">6900.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">17111.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">11807.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">17500.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7133.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">12484.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guyana</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Guyana</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2600.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guyana</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">260.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">9700.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4639.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">4500.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2550.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2745.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">700.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">30341.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3355.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">10180.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">923968.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">8009.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">740006.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">3000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1200.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">LandLocked developing countries +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">36768.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">LandLocked developing countries +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">15349.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Least Developed Countries +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">320232.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Least Developed Countries +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">151081.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">17000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1764.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">3000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Low Income Food Deficit Countries +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">6795018.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Low Income Food Deficit Countries +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">3635233.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">6000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7500.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">4500.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">30800.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">9740.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">30000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Melanesia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">134850.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Melanesia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3983.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Melanesia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">53714.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">60934.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4908.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">29910.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">80.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4375.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">35.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia, Federated States of</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">80.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia, Federated States of</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4375.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia, Federated States of</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">35.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Middle Africa +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">528300.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Middle Africa +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3647.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Middle Africa +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">192679.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Net Food Importing Developing Countries +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2990643.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Net Food Importing Developing Countries +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1634157.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2100.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2761.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">580.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1110000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4504.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">500000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Oceania +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">137295.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Oceania +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3953.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Oceania +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">54280.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">5050.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1358.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">686.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">120000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3941.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">47300.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">59835.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5245.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">31387.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">9985.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5244.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">5237.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Polynesia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2365.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Polynesia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2245.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Polynesia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">531.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Lucia</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">50.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Lucia</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">8000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Lucia</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">40.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Vincent and Grenadines</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">680.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Vincent and Grenadines</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2794.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Vincent and Grenadines</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">190.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2350.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">2255.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">530.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Sao Tome and Principe</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">22000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Sao Tome and Principe</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1590.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sao Tome and Principe</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">3500.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sierra Leone</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">38000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Sierra Leone</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3684.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sierra Leone</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">14000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Small Island Developing States +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">346544.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Small Island Developing States +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">109465.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">12000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4416.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">5300.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">South America +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1222892.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">South America +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3313.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">South America +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">405166.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">South-Eastern Asia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">966553.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">South-Eastern Asia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">8025.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">South-Eastern Asia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">775743.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Southern Asia +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">32691.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Southern Asia +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3554.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Southern Asia +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">11620.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2350.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">6127.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1440.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">155.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">580.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">9.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania, United Republic of</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">6000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania, United Republic of</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7500.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania, United Republic of</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">4500.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">800.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">400.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Timor-Leste</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Timor-Leste</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1000.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Timor-Leste</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">100.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Togo</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">104000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Togo</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">7500.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Togo</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">78000.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">0.00000</field>
+            <field name="Value Footnotes">NR</field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">13000.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">1038.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1350.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">30300.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3498.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">10600.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">2600.00000</field>
+            <field name="Value Footnotes">F </field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">4230.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">1100.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela, Bolivarian Republic of</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">56927.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela, Bolivarian Republic of</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">3321.00000</field>
+            <field name="Value Footnotes">Fc</field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela, Bolivarian Republic of</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">18911.00000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Western Africa +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">5109042.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Western Africa +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5101.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">Western Africa +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">2606584.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">World +</field>
+            <field name="Element Code">31</field>
+            <field name="Element">Area Harvested</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Ha</field>
+            <field name="Value">8306724.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">World +</field>
+            <field name="Element Code">41</field>
+            <field name="Element">Yield</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Hg/Ha</field>
+            <field name="Value">5009.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+        <record>
+            <field name="Country or Area">World +</field>
+            <field name="Element Code">51</field>
+            <field name="Element">Production Quantity</field>
+            <field name="Year">2007</field>
+            <field name="Unit">tonnes</field>
+            <field name="Value">4161631.00000</field>
+            <field name="Value Footnotes">A </field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote fnSeqID="* ">Unofficial figure</footnote>
+        <footnote fnSeqID="A ">May include official, semi-official or estimated data</footnote>
+        <footnote fnSeqID="F ">FAO Estimate</footnote>
+        <footnote fnSeqID="Fc">Calculated Data</footnote>
+        <footnote fnSeqID="NR">Not reported by country</footnote>
+    </footnotes>
+</ROOT>
