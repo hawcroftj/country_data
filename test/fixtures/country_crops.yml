@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: one
+  crop: one
+  yield: 9.99
+
+two:
+  country: two
+  crop: two
+  yield: 9.99
