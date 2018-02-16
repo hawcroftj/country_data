@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Crops</h1>
-
+<%= paginate @crops %>
 <table>
   <thead>
     <tr>
@@ -21,7 +21,7 @@
     <% end %>
   </tbody>
 </table>
-
+<%= paginate @crops %>
 <br>
 
 <%= link_to 'New Crop', new_crop_path %>

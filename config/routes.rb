@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root to: 'countries#index'
   resources :universities
   resources :crops
   resources :airports

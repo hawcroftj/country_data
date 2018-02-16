@@ -4,7 +4,7 @@ class CropsController < ApplicationController
   # GET /crops
   # GET /crops.json
   def index
-    @crops = Crop.all
+    @crops = Crop.page(params[:page]).per(100)
   end
 
   # GET /crops/1

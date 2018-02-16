@@ -4,7 +4,7 @@ class UniversitiesController < ApplicationController
   # GET /universities
   # GET /universities.json
   def index
-    @universities = University.all
+    @universities = University.page(params[:page]).per(100)
   end
 
   # GET /universities/1

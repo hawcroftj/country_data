@@ -4,7 +4,7 @@ class CountriesController < ApplicationController
   # GET /countries
   # GET /countries.json
   def index
-    @countries = Country.all
+    @countries = Country.page(params[:page]).per(100)
   end
 
   # GET /countries/1

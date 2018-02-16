@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Airports</h1>
-
+<%= paginate @airports %>
 <table>
   <thead>
     <tr>
@@ -25,7 +25,7 @@
     <% end %>
   </tbody>
 </table>
-
+<%= paginate @airports %>
 <br>
 
 <%= link_to 'New Airport', new_airport_path %>
