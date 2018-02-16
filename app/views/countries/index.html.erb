@@ -15,6 +15,7 @@
       <th>Code</th>
       <th>Name</th>
       <th>Gdp</th>
+      <th>Crops</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -24,7 +25,18 @@
       <tr>
         <td><%= country.code %></td>
         <td><%= country.name %></td>
-        <td><%= country.gdp %></td>
+        <td>
+          <% if country.gdp.nil? || country.gdp == '' %>
+            no data
+          <% else %>
+            <%= country.gdp %>
+          <% end %>
+        </td>
+        <td>
+          <% country.crops.each do |crop| %>
+            <%= crop.name %>,
+          <% end %>
+        </td>
         <td><%= link_to 'Show', country %></td>
         <td><%= link_to 'Edit', edit_country_path(country) %></td>
         <td><%= link_to 'Destroy', country, method: :delete, data: { confirm: 'Are you sure?' } %></td>

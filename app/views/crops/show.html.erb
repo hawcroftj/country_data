@@ -5,5 +5,12 @@
   <%= @crop.name %>
 </p>
 
+<p>
+  <strong>Countries:</strong>
+  <% @crops.countries.each do |country| %>
+    <%= country.name %>
+  <% end %>
+</p>
+
 <%= link_to 'Edit', edit_crop_path(@crop) %> |
 <%= link_to 'Back', crops_path %>
