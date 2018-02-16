@@ -1,0 +1,22 @@
+#menu ul {
+    list-style: none;
+}
+
+#menu li {
+    margin: 5px;
+    display: inline;
+}
+
+#menu a {
+    color: #CCCCCC;
+}
+
+#menu a:hover {
+    color: #FFFFFF;
+}
+
+#menu {
+    padding: 1px;
+    background-color: #000000;
+    color: #FFFFFF;
+}

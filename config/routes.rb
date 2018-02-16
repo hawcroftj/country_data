@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
   root to: 'countries#index'
+  get 'pages/about' => 'pages#about'
+
   resources :universities
   resources :crops
   resources :airports

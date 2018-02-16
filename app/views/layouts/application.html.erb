@@ -4,11 +4,21 @@
     <title>CountryData</title>
     <%= csrf_meta_tags %>
 
+    <%= stylesheet_link_tag "custom_css" %>
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
+    <div id="menu">
+      <ul>
+        <li><%= link_to 'Countries', countries_path(@countries) %></li>
+        <li><%= link_to 'Crops', crops_path(@crops) %></li>
+        <li><%= link_to 'Airports', airports_path(@airports) %></li>
+        <li><%= link_to 'Universities', universities_path(@universities) %></li>
+        <li><%= link_to 'About', "/pages/about" %></li>
+      </ul>
+    </div>
     <%= yield %>
   </body>
 </html>
