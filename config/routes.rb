@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  get 'search', to: 'search#index', as: 'search'
+  get 'search_index', to: 'search#index', as: 'search_index'
+  get 'search_airports', to: 'search#airports', as: 'search_airports'
+  get 'search_universities', to: 'search#universities', as: 'search_universities'
 
   root to: 'countries#index'
   get 'pages/about' => 'pages#about'

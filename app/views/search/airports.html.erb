@@ -1,0 +1,8 @@
+<h1>Search Results</h1>
+<p><%= pluralize(@airports.size, 'result') %> for "<%= @terms %>"</p>
+
+<ul>
+  <% @airports.each do |airport| %>
+    <li><%= link_to airport.name, airport %></li>
+  <% end %>
+</ul>

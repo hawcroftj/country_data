@@ -1,6 +1,13 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Universities</h1>
+
+<%= form_tag(search_universities_path, method: "get") do %>
+  <%= label_tag(:q, "Search for:") %>
+  <%= text_field_tag(:q) %>
+  <%= submit_tag("Search") %>
+<% end %>
+
 <%= paginate @universities %>
 <table>
   <thead>

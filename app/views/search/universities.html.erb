@@ -1,0 +1,8 @@
+<h1>Search Results</h1>
+<p><%= pluralize(@universities.size, 'result') %> for "<%= @terms %>"</p>
+
+<ul>
+  <% @universities.each do |university| %>
+    <li><%= link_to university.name, university %></li>
+  <% end %>
+</ul>
